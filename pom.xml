@@ -10,6 +10,8 @@
         <module>service-order</module>
         <module>zuul-gateway-server</module>
         <module>gateway-server</module>
+        <module>config-server</module>
+        <module>config-client</module>
     </modules>
 
     <parent>
